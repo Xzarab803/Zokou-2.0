@@ -17,7 +17,7 @@
     {
       "description":"le bot lira tous les status automatiquement (oui pour activer et non pour désactiver)",
       "value":"oui",
-      "required":false
+      "required": true 
     }, "TELECHARGER_AUTO_STATUS":
     {
       "description":"le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
@@ -87,7 +87,7 @@
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "22891733300"
+    "value": "923311397803"
   },
     
 
